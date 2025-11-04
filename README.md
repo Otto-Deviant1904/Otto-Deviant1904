@@ -7,7 +7,7 @@
 ```json
 {
   "username": "Otto-Deviant1904",
-  "title": "studetnt",
+  "title": "student",
   "location": "Arch Linux",
   "status": "Compiling...",
   "skills": {
