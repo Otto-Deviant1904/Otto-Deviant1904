@@ -7,11 +7,11 @@
 ```json
 {
   "username": "Otto-Deviant1904",
-  "title": "student",
+  "title": "Student",
   "location": "Arch Linux",
   "status": "Compiling...",
   "skills": {
-    "languages": ["Python", "JavaScript", "C"],
+    "languages": ["Python", "C"],
     "devops": ["Git", "Docker", "Linux"],
     "currently_learning": "Anything that looks interesting"
   },
